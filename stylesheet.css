@@ -1,0 +1,54 @@
+body{
+	background:white;
+	margin: 20px;
+
+}
+header{
+	background: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	padding: 20px;
+
+}
+main{
+	background: white;
+	margin: 30px;
+}
+a:link{
+	text-decoration: none;
+	color: gray;
+}
+.container{
+	background: white;
+
+}
+/*img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;} /* ie8 */
+.bg {
+	max-width: 100%;
+    background-size: cover;
+}
+
+header nav{
+float: right;
+font-size: 120%;
+
+}
+nav a{
+	padding-left: 10px;
+}
+.contact{
+	float: right;
+	padding: 20px;
+	color: darkgray;
+.
+}
+.sitemap{
+	float: left;
+	font-size: 90%;
+	padding: 20px;
+.
+}
